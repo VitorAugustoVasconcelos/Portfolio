@@ -37,4 +37,12 @@ export const stackData = [
     title: 'Docker',
     img: FaDocker,
   },
+  {
+    title: 'Typescript',
+    img: SiTypescript,
+  },
+  {
+    title: 'Python',
+    img: FaPython,
+  },
 ];

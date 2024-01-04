@@ -29,7 +29,7 @@ import {
 
 export const Home = (): JSX.Element => {
   const gihubUrl = `https://github.com/${userData.githubUser}`;
-  const portfolioUrl = `https://github.com/${userData.githubUser}/kenzie-portfolio`;
+  const portfolioUrl = `https://github.com/${userData.githubUser}/Portfolio`;
 
   return (
     <main id="home">
@@ -86,6 +86,9 @@ export const Home = (): JSX.Element => {
             <HeaderButtonsArea>
               <Button as="a" type="primary" href="#projects">
                 See Projects
+              </Button>
+              <Button as="a" type="outline" target="_blank" href={portfolioUrl}>
+                See my portfolio source code
               </Button>
               <Button
                 color="grey5"

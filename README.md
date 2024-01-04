@@ -1,4 +1,4 @@
-# :computer: :computer_mouse: Personal-Portfolio
+\*\*# :computer: :computer_mouse: Personal-Portfolio
 
 This project, tailored for Kenzie Academy Brazil students, is designed to create a dynamic professional portfolio showcasing their technical and problem-solving prowess. The objective is to present these skills through a sleek, modern, and user-friendly interface, allowing for a clear and impactful demonstration of their capabilities.
 
@@ -35,3 +35,5 @@ _Within this folder, you'll discover two pivotal files that govern the informati
         *   **linkedinUser:** _By providing your LinkedIn username, a link will be automatically generated for users to access your LinkedIn profile._
 
         *   **whatsappNumber:** _In this property, input your area code along with your WhatsApp number. Clicking on the 'WhatsApp' link will direct users to your contact with a predefined message._
+
+\*\*
