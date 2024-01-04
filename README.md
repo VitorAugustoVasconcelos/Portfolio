@@ -24,7 +24,7 @@ While the project follows the typical folder structure of a React project, it's 
 
 _Within this folder, you'll discover two pivotal files that govern the information showcased in the portfolio_
 
-    *   ** :paperclip: userData.ts**
+    *   **📄 userData.ts**
 
         _Within this file, you can update the information in the UserData object to reflect changes in the portfolio information._
 
