@@ -1,4 +1,4 @@
-# 💻 Personal-Portfolio
+# :computer: :computer_mouse: Personal-Portfolio
 
 This project, tailored for Kenzie Academy Brazil students, is designed to create a dynamic professional portfolio showcasing their technical and problem-solving prowess. The objective is to present these skills through a sleek, modern, and user-friendly interface, allowing for a clear and impactful demonstration of their capabilities.
 
@@ -16,11 +16,11 @@ After downloading the dependencies, initiate the project in the development envi
 
 ---
 
-## 🗂 Data structure
+## :file_folder: Data structure
 
 While the project follows the typical folder structure of a React project, it's crucial to highlight specific files that play a key role in customizing the site's information. Here's an overview of each one:
 
-- #### 🗂 Utils Folder
+- #### :open_file_folder: Utils Folder
 
 _Within this folder, you'll discover two pivotal files that govern the information showcased in the portfolio_
 
