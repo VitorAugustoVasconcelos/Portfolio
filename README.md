@@ -20,14 +20,14 @@ This project, tailored for Kenzie Academy Brazil students, is designed to create
 
 Within this folder, you'll discover two pivotal files that govern the information showcased in the portfolio
 
-    *   **📄 userData.ts**
+- 📄 userData.ts
 
-        Within this file, you can update the information in the UserData object to reflect changes in the portfolio information.
+    - Within this file, you can update the information in the UserData object to reflect changes in the portfolio information.
 
-        *   **nameUser:** This is the name that will be featured as the page logo and in other sections where personal presentation is highlighted.
+    - nameUser: This is the name that will be featured as the page logo and in other sections where personal presentation is highlighted.
 
-        *   **githubUser:** This information is crucial for displaying repositories, including the link to your GitHub profile and the profile
+    - githubUser: This information is crucial for displaying repositories, including the link to your GitHub profile and the profile
 
-        *   **linkedinUser:** By providing your LinkedIn username, a link will be automatically generated for users to access your LinkedIn profile.
+    - linkedinUser: By providing your LinkedIn username, a link will be automatically generated for users to access your LinkedIn profile.
 
-        *   **whatsappNumber:** In this property, input your area code along with your WhatsApp number. Clicking on the 'WhatsApp' link will direct users to your contact with a predefined message.
+    - whatsappNumber: In this property, input your area code along with your WhatsApp number. Clicking on the 'WhatsApp' link will direct users to your contact with a predefined message.
